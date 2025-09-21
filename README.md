@@ -1,21 +1,27 @@
-### 📊 MVP-Machine-learning
+#### 📊 MVP — Machine Learning em Jogos de Tabuleiro
 
-#### 🎲 Machine Learning & Analytics de um dataset de "Jogos de Tabuleiro".  
-Este projeto tem como propósito aplicar técnicas de **aprendizado não supervisionado**, com ênfase em algoritmos de clustering, para explorar e analisar um dataset contendo avaliações e informações sobre Jogos de Tabuleiro.  
-A abordagem busca identificar agrupamentos naturais entre os jogos e os jogadores, revelando padrões ocultos, tendências emergentes, fatores de popularidade e comportamentos recorrentes dentro da comunidade.  
-Ao segmentar os dados em clusters significativos, pretende-se compreender melhor as relações entre características dos jogos e perfis de usuários, promovendo insights valiosos para recomendações, curadoria e estratégias de engajamento.
+#### 🎲 Análise de Dados e Aprendizado Não Supervisionado
+Este projeto tem como objetivo aplicar técnicas de **aprendizado não supervisionado**, com foco em algoritmos de **clustering**, para explorar e analisar um conjunto de dados contendo avaliações e informações sobre jogos de tabuleiro.  
+A abordagem busca identificar agrupamentos naturais entre os jogos e os jogadores, revelando padrões ocultos, tendências emergentes, fatores de popularidade e comportamentos recorrentes dentro da comunidade.
 
-#### 🧩 Sobre o Dataset  
-O conjunto de dados foi extraído da plataforma [kaggle] [fonte: https://www.kaggle.com/datasets/andrewmvd/board-games] e reúne informações sobre jogos de tabuleiro do site BoardGameGeek (BGG).  
+#### 🧩 Dataset
+O conjunto de dados foi obtido na plataforma Kaggle [fonte: https://www.kaggle.com/datasets/andrewmvd/board-games] e reúne informações extraídas do site BoardGameGeek (BGG), uma das maiores comunidades online dedicadas a jogos de tabuleiro.
 
-#### 📌 Objetivos da Análise  
-Realizar análise exploratória para extração de insights quantitativos e visualizações analíticas.  
-Aplicar as boas práticas, limpeza, tratamento e visualização dos dados.  
-Verificar estatísticas descritivas relevantes para compreensão da distribuição e variabilidade dos dados.  
-Executar pré-processamento de dados com transformação de dados para análises futuras.   
+#### 📌 Etapas da Análise
+- 🔍 Pré-processamento de dados: limpeza, tratamento de valores ausentes e normalização.
+- 🧠 Clustering: aplicação de algoritmos como K-Means, DBSCAN e Hierarchical Clustering para identificar agrupamentos significativos.
+- 📉 Redução de dimensionalidade: uso de técnicas como PCA e t-SNE para facilitar a visualização e melhorar a performance dos modelos.
+- 🔁 Validação cruzada (Cross-Validation): avaliação da consistência e robustez dos agrupamentos gerados.
+- 📊 Visualizações analíticas: geração de gráficos e dashboards para interpretação dos resultados e extração de insights relevantes.
 
-#### 💼 Ferramentas Utilizadas  
-Python com bibliotecas: 'Pandas', 'NumPy', 'Math', 'Seaborn', 'Matplotlib', 'Plotly', 'Sklearn', 'Scikit-learn'  
-Jupyter Notebook  
-Google Colab e GitHub  
-Markdown para documentação  
+#### 💼 Ferramentas Utilizadas
+- Linguagem: Python
+- Bibliotecas: Pandas, NumPy, Math, Seaborn, Matplotlib, Plotly, Sklearn, Scikit-learn
+- Ambientes: Jupyter Notebook, Google Colab
+- Versionamento e Documentação: GitHub, Markdown
+
+#### 🚀 Resultados Esperados
+- Identificação de padrões de comportamento entre jogadores e jogos.
+- Segmentação de jogos por características e popularidade.
+- Geração de insights para recomendações personalizadas e estratégias de curadoria.
+- Visualizações interativas que facilitam a compreensão dos agrupamentos e tendências.
