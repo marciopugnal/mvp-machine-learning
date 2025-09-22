@@ -8,7 +8,7 @@ A avaliação da qualidade dos agrupamentos será realizada por meio de métrica
 #### 🧩 Dataset
 O conjunto de dados foi obtido na plataforma Kaggle [fonte: https://www.kaggle.com/datasets/andrewmvd/board-games] e reúne informações extraídas do site BoardGameGeek (BGG), uma das maiores comunidades online dedicadas a jogos de tabuleiro.
 
-#### 📌 Etapas da Análise
+#### 📌 Etapas do pipeline
 - Pré-processamento dos dados: limpeza, tratamento de valores ausentes e inconsistentes, codificação e padronização de atributos.
 - Redução de dimensionalidade: uso de técnicas como PCA e t-SNE para facilitar a visualização e melhorar a performance dos modelos.    
 - Algoritmos de clustering: aplicação de algoritmos como K-Means, DBSCAN e Hierarchical Clustering para identificar agrupamentos significativos.  
