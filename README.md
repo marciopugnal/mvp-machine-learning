@@ -1,4 +1,4 @@
-### 📊 MVP — Machine Learning em Jogos de Tabuleiro  
+### 📊 MVP - Machine Learning em Jogos de Tabuleiro  
 
 #### 🎲 Aprendizado Não Supervisionado
 Este projeto tem como objetivo aplicar técnicas de **aprendizado não supervisionado**, com foco em algoritmos de **clustering**, para explorar e analisar um conjunto de dados contendo avaliações e informações sobre jogos de tabuleiro.  
