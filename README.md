@@ -19,7 +19,7 @@ O conjunto de dados foi obtido na plataforma Kaggle [fonte: https://www.kaggle.c
 - Linguagem: Python  
 - Bibliotecas: Pandas, NumPy, Math, Seaborn, Matplotlib, Plotly, Sklearn, Scikit-learn  
 - Ambientes: Jupyter Notebook, Google Colab  
-- Versionamento e Documentação: GitHub, Markdown  
+- Documentação: GitHub, Markdown  
 
 #### 🚀 Resultados Esperados  
 - Identificação de padrões de comportamento entre jogadores e jogos.  
