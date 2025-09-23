@@ -17,7 +17,7 @@ O conjunto de dados foi obtido na plataforma Kaggle [fonte: https://www.kaggle.c
 
 #### 💼 Ferramentas Utilizadas  
 - Linguagem: Python  
-- Bibliotecas: Pandas, NumPy, Math, Seaborn, Matplotlib, Plotly, Sklearn, Scikit-learn  
+- Bibliotecas: Pandas, NumPy, Math, Seaborn, Matplotlib, Plotly, Sklearn, Scikit-learn, Scipy.cluster  
 - Ambientes: Jupyter Notebook, Google Colab  
 - Documentação: GitHub, Markdown  
 
