@@ -3,7 +3,7 @@
 #### 🎲 Aprendizado Não Supervisionado
 Este projeto tem como objetivo aplicar técnicas de **aprendizado não supervisionado**, com foco em algoritmos de **clustering**, para explorar e analisar um conjunto de dados contendo avaliações e informações sobre jogos de tabuleiro.  
 A abordagem será estruturada por meio da construção de um pipeline, que permitirá a execução sequencial e automatizada das etapas, buscando identificar agrupamentos naturais entre os jogos e os jogadores, revelando padrões ocultos, tendências emergentes, fatores de popularidade que impulsionam o sucesso de um jogo e comportamentos recorrentes dentro da comunidade.  
-A avaliação da qualidade dos agrupamentos será realizada por meio de métricas como, por exemplo, Silhouette score, Davies-Bouldin, Calinski-Harabasz e validação cruzada, assegurando a robustez e a interpretabilidade dos resultados.  
+A qualidade dos agrupamentos será avaliada por meio de métricas internas e externas, como o índice de Silhouette, Davies-Bouldin, Calinski-Harabasz e validação cruzada, com o objetivo de assegurar a consistência estatística dos agrupamentos e facilitar a interpretação dos padrões identificados.  
 
 #### 🧩 Dataset
 O conjunto de dados foi obtido na plataforma Kaggle [fonte: https://www.kaggle.com/datasets/andrewmvd/board-games] e reúne informações extraídas do site BoardGameGeek (BGG), uma das maiores comunidades online dedicadas a jogos de tabuleiro.
