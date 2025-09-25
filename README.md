@@ -11,8 +11,8 @@ O conjunto de dados foi obtido na plataforma Kaggle [fonte: https://www.kaggle.c
 #### 📌 Pipeline de dados
 - Pré-processamento dos dados: limpeza, tratamento de valores (ausentes e inconsistentes), codificação e padronização de atributos.
 - Redução de dimensionalidade: uso de técnicas como PCA e t-SNE para facilitar a visualização e melhorar a performance dos modelos.    
-- Algoritmos de clustering: aplicação do K-Means, DBSCAN e Hierarchical Clustering para identificar agrupamentos significativos.  
-- Avaliação da qualidade dos agrupamentos: utilizando métricas internas como Silhouette Score, Davies-Bouldin e Calinski-Harabasz, além de estratégias de validação cruzada para testar a consistência dos resultados em diferentes subconjuntos dos dados.  
+- Clustering: aplicação dos algoritmos K-Means, DBSCAN e Hierarchical para identificar agrupamentos significativos.  
+- Avaliação dos agrupamentos: utilizando métricas internas como Silhouette Score, Davies-Bouldin e Calinski-Harabasz, além de estratégias de validação cruzada para testar a consistência dos resultados em diferentes subconjuntos dos dados.  
 - Visualização analítica: geração de gráficos e exploração de dados para facilitar a interpretação dos agrupamentos e extração de insights relevantes.
 
 #### 💼 Ferramentas Utilizadas  
