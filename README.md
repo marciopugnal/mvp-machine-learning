@@ -25,5 +25,5 @@ O conjunto de dados foi obtido na plataforma Kaggle [fonte: https://www.kaggle.c
 - Identificação de padrões de comportamento entre jogadores e jogos.  
 - Segmentação de jogos por características e popularidade.  
 - Análise de correlações entre mecânicas de jogo e níveis de popularidade.
-- Exploração de tendências temporais no comportamento dos jogadores e na popularidade dos jogos.
+- Exploração de tendências no comportamento dos jogadores e na popularidade dos jogos.
 - Mapeamento de perfis de jogadores com base em preferências, estilos de jogo e avaliações.  
